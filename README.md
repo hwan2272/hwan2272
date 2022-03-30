@@ -1,14 +1,19 @@
 # * Park Jeong-hwan
 
-개발 고수는 아니고 그냥 `어찌저찌` 하다보니 `이것저것` 할줄 알게된 `Java` `Spring Boot` `Backend`/`Full Stack` 위주의 개발자입니다.
+개발 고수는 아니고 그냥 `어찌저찌` 하다보니 `이것저것` 할줄 알게된 SCV 이고, `Java` `Spring Boot` `Backend`/`Full Stack` 위주의 개발자입니다.
 
-좌우명은 `도태되지 말자` 이고, 호기심, 연구심 생기면 못참기때문에 해결하고자 `이것저것` `기웃기웃` 거립니다.
+좌우명은 `도태되지 말자` 이고, 호기심/연구심 생기면 못참기 때문에 해결하고자 `이것저것` `기웃기웃` 거립니다.
 
-스스로 정파보다는 사파라고 생각하며 `이것저것` 익혀서 `여기저기` 써먹을려고합니다.
+스스로 정파보다는 사파라고 생각하고, 겸허한 자세로 `이것저것` 익혀서 `여기저기` 써먹을려고합니다.
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwan2272)](https://solved.ac/hwan2272/)
 
 
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
+
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
 
 # * 2017-01 ~ 2022-04
