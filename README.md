@@ -6,7 +6,6 @@
 
 스스로 정파보다는 사파라고 생각하고, 겸허한 자세로 `이것저것` 익혀서 `여기저기` 써먹을려고합니다.
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwan2272)](https://solved.ac/hwan2272/)
 
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
