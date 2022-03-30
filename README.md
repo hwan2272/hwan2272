@@ -31,7 +31,7 @@ SI/SM (4년 2개월)
 
 # * GIT
 
-![trophy](https://github-profile-trophy.vercel.app/?username=hwan2272&theme=dracula&column=4)
+![trophy](https://github-profile-trophy.vercel.app/?username=hwan2272&theme=nord&column=4)
 
 
 ![hwan2272's github stats](https://github-readme-stats.vercel.app/api?username=hwan2272&show_icons=true)
