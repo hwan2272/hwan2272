@@ -1,7 +1,4 @@
-# Park Jeonghwan
-
-타임라인
-
+# Park Jeong-hwan
 
 # 2017-01 ~ 2022-04
 
