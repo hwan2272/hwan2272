@@ -26,3 +26,11 @@ SI/SM (4년 2개월)
 임베디드개발 (8개월)
 
 `C#` `C++` `C` `XML`
+
+
+
+![trophy](https://github-profile-trophy.vercel.app/?username=hwan2272)
+
+
+![hwan2272's github stats](https://github-readme-stats.vercel.app/api?username=hwan2272&show_icons=true)
+[![hwan2272's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hwan2272&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hwan2272)
