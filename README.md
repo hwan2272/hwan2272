@@ -1,4 +1,4 @@
-# Park Jeong-hwan
+# * Park Jeong-hwan
 
 개발 고수는 아니고 그냥 `어찌저찌` 하다보니 `이것저것` 할줄 알게된 `Java` `Spring Boot` `Backend`/`Full Stack` 위주의 개발자입니다.
 
@@ -28,6 +28,8 @@ SI/SM (4년 2개월)
 `C#` `C++` `C` `XML`
 
 
+
+# * GIT
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hwan2272)
 
