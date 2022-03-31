@@ -67,13 +67,13 @@ https://solved.ac/
 
 ### 3. Programmers
 
-## 과제관-주문관리 API 서버 개발
+### 3-1. 과제관-주문관리 API 서버 개발
 https://programmers.co.kr/skill_check_assignments/232
 
 ![programmers 과제관-주문관리 API 서버 개발](https://user-images.githubusercontent.com/65170244/161106637-70572cf8-0cb7-465e-b82c-c1872a5d8192.png)
 
 
-### SQL Kit 완료
+### 3-2. SQL Kit 완료
 https://programmers.co.kr/learn/challenges?tab=sql_practice_kit
 
 ![programmers SQL Kit완료](https://user-images.githubusercontent.com/65170244/161099567-3d1b96fd-d856-4f10-8eff-ce571606ec8f.png)
