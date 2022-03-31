@@ -43,9 +43,9 @@ SI/SM (4년 2개월)
 
 
 ---------------
-# * 기타 활동
+# * 스킬업 활동
 
-### Github
+### 1. Github
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hwan2272&theme=nord&column=4)
 
@@ -55,7 +55,7 @@ SI/SM (4년 2개월)
 
 
 
-### solved.ac (요새 알게되어 활동중)
+### 2. solved.ac (요새 알게되어 활동중)
 
 https://www.acmicpc.net/
 
@@ -65,14 +65,14 @@ https://solved.ac/
 
 
 
-### Programmers SQL Kit 완료
+### 3. Programmers SQL Kit 완료
 
 https://programmers.co.kr/learn/challenges?tab=sql_practice_kit
 
 ![programmers SQL Kit완료](https://user-images.githubusercontent.com/65170244/161099567-3d1b96fd-d856-4f10-8eff-ce571606ec8f.png)
 
 
-### Inflearn 보유한 인강목록
+### 4. Inflearn 보유한 인강목록
 
 https://www.inflearn.com/
 
