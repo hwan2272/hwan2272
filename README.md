@@ -1,5 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello%20hwan2272's%20World&animation=twinkling&fontSize=35&fontColor=64ffe2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello%20World&animation=twinkling&fontSize=35&fontColor=64ffe2)
 
+---------------
 # * Park Jeong-hwan 
 
 ### 개발 고수
@@ -19,7 +20,7 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">         
 
 
-
+---------------
 # * 실무 이력
 
 ### 2017-01 ~ 2022-04
@@ -41,8 +42,10 @@ SI/SM (4년 2개월)
 `C#` `C++` `C` `XML`         
 
 
+---------------
+# * 기타 활동
 
-# * Github
+### Github
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hwan2272&theme=nord&column=4)
 
@@ -52,21 +55,22 @@ SI/SM (4년 2개월)
 
 
 
-# * solved.ac (재미로 하는 중이라 아직 낮습니다)
+### solved.ac (요새 알게되어 활동중)
 
-### https://www.acmicpc.net/
-### https://solved.ac/
+https://www.acmicpc.net/
+
+https://solved.ac/
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hwan2272)](https://solved.ac/hwan2272)
 
 
 
-# * Programmers SQL Kit 완료
+### Programmers SQL Kit 완료
 
-### https://programmers.co.kr/learn/challenges?tab=sql_practice_kit
+https://programmers.co.kr/learn/challenges?tab=sql_practice_kit
 
 ![programmers SQL Kit완료](https://user-images.githubusercontent.com/65170244/161099567-3d1b96fd-d856-4f10-8eff-ce571606ec8f.png)
 
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Best%20Regards.감사합니다&animation=twinkling&fontSize=35&fontColor=64ffe2)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Best%20Regards.&animation=twinkling&fontSize=35&fontColor=64ffe2)
