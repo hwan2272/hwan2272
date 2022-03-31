@@ -17,6 +17,9 @@
 <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
 
 
+
+# * 실무 이력
+
 ### * 2017-01 ~ 2022-04
 
 개발(Frontend/Backend),유지보수 (5년 4개월)
@@ -37,7 +40,7 @@ SI/SM (4년 2개월)
 
 
 
-# * GIT
+# * GITHUB
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hwan2272&theme=nord&column=4)
 
