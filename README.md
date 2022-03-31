@@ -52,7 +52,7 @@ SI/SM (4년 2개월)
 
 
 
-# * solved.ac
+# * solved.ac (재미로하는 중이라 아직 낮습니다)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hwan2272)](https://solved.ac/hwan2272)
 
