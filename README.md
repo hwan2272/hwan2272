@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=110&section=header&text=Hello%20hwan2272's%20World&animation=twinkling&fontSize=35&fontColor=64ffe2)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello%20hwan2272's%20World&animation=twinkling&fontSize=35&fontColor=64ffe2)
 
 # * Park Jeong-hwan 
 
@@ -56,3 +56,6 @@ SI/SM (4년 2개월)
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hwan2272)](https://solved.ac/hwan2272)
 -->
+
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Best%20Regards.감사합니다&animation=twinkling&fontSize=35&fontColor=64ffe2)
