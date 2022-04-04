@@ -83,7 +83,7 @@ https://programmers.co.kr/learn/challenges?tab=sql_practice_kit
 
 https://www.inflearn.com/
 
-![inflearn 보유한 인강목록](https://user-images.githubusercontent.com/65170244/161104698-a1e012c9-bf96-414f-a5cd-ce2919278c99.png)
+![inflearn 강의 보유_2](https://user-images.githubusercontent.com/65170244/161509822-8d560401-f805-45d7-a008-3f7f6f6d49f2.png)
 
 
 
