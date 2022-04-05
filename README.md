@@ -1,6 +1,6 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello%20World&animation=twinkling&fontSize=50&fontColor=64ffe2)
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Hello%20World&animation=twinkling&fontSize=50&fontColor=64ffe2)
+-->
 
----------------
 # * Park Jeong-hwan 
 
 ### 개발 고수
