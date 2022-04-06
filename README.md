@@ -82,7 +82,7 @@ https://programmers.co.kr/learn/challenges?tab=sql_practice_kit
 ### 3-3. 코테 연습 Kit (진행)
 https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 
-![programmers 코테연습 (해결중)](https://user-images.githubusercontent.com/65170244/161947788-0d404ed9-9b05-4098-b389-963bbd1897b6.png)
+![programmers 코테연습 (해결중)_2](https://user-images.githubusercontent.com/65170244/161964657-da7531e3-c317-4866-a0fc-cbcfa98dc4c6.png)
 
 
 ### 4. Inflearn 보유한 인강목록
