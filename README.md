@@ -73,13 +73,13 @@ https://programmers.co.kr/skill_check_assignments/232
 ![programmers 과제관-주문관리 API 서버 개발](https://user-images.githubusercontent.com/65170244/161106637-70572cf8-0cb7-465e-b82c-c1872a5d8192.png)
 
 
-### 3-2. SQL Kit 완료
+### 3-2. SQL Kit (완료)
 https://programmers.co.kr/learn/challenges?tab=sql_practice_kit
 
 ![programmers SQL Kit완료](https://user-images.githubusercontent.com/65170244/161099567-3d1b96fd-d856-4f10-8eff-ce571606ec8f.png)
 
 
-### 3-3. 코테 연습 (진행)
+### 3-3. 코테 연습 Kit (진행)
 https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 
 ![programmers 코테연습 (해결중)](https://user-images.githubusercontent.com/65170244/161947788-0d404ed9-9b05-4098-b389-963bbd1897b6.png)
