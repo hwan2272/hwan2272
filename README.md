@@ -55,7 +55,7 @@ SI/SM (4년 2개월)
 
 
 
-### 2. solved.ac (요새 알게되어 활동중)
+### 2. 백준, solved.ac
 
 https://www.acmicpc.net/
 
