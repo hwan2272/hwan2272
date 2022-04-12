@@ -90,7 +90,7 @@ https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 
 https://www.inflearn.com/
 
-![inflearn 강의 보유_3](https://user-images.githubusercontent.com/65170244/161948335-31b5bba8-42e1-4386-93ba-1a8f3ea29516.png)
+![inflearn 강의 보유_4](https://user-images.githubusercontent.com/65170244/162973095-5c04007b-0097-4ce6-815a-9624bc611666.png)
 
 
 
