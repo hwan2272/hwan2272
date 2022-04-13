@@ -64,11 +64,9 @@ https://solved.ac/
 ### 2-1. 맞았습니다 소스 보기
 https://www.acmicpc.net/status?user_id=hwan2272&result_id=4
 
-### 2-2. solved.ac (BOJ 티어평가)
+### 2-2. solved.ac (BOJ 티어평가) - 현재 SILVER III
 
-현재 : SILVER 3
-
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hwan2272)](https://solved.ac/hwan2272)
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwan2272)](https://solved.ac/hwan2272)
 
 ![rating_3](https://user-images.githubusercontent.com/65170244/163176178-2bd87253-ca5a-4dc6-8860-d0c4316605ca.jpg)
 
