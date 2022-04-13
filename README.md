@@ -55,12 +55,18 @@ SI/SM (4년 2개월)
 
 
 
-### 2. 백준, solved.ac
+### 2. 백준 Online Judge(BOJ)
 
 https://www.acmicpc.net/
-https://www.acmicpc.net/status?user_id=hwan2272&result_id=4
 
 https://solved.ac/
+
+### 2-1. 맞았습니다 소스 보기
+https://www.acmicpc.net/status?user_id=hwan2272&result_id=4
+
+### 2-2. solved.ac (BOJ 티어평가)
+
+현재 : SILVER 3
 
 [![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=hwan2272)](https://solved.ac/hwan2272)
 
