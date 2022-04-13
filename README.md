@@ -61,7 +61,7 @@ https://www.acmicpc.net/
 
 https://solved.ac/
 
-### 2-1. `맞았습니다!!` 된 소스 보기
+### 2-1. `맞았습니다!!` 리스트, 제출소스 보기
 https://www.acmicpc.net/status?user_id=hwan2272&result_id=4
 
 ### 2-2. solved.ac (BOJ 티어평가) - 현재 SILVER III
