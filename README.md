@@ -68,7 +68,7 @@ https://www.acmicpc.net/status?user_id=hwan2272&result_id=4
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwan2272)](https://solved.ac/hwan2272)
 
-![rating_3](https://user-images.githubusercontent.com/65170244/163176178-2bd87253-ca5a-4dc6-8860-d0c4316605ca.jpg)
+![rating_4](https://user-images.githubusercontent.com/65170244/163203292-36372f7c-74e9-4465-bf56-aa5d5808d3a2.jpg)
 
 
 ### 3. Programmers
