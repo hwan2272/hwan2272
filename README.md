@@ -58,6 +58,7 @@ SI/SM (4년 2개월)
 ### 2. 백준, solved.ac
 
 https://www.acmicpc.net/
+https://www.acmicpc.net/status?user_id=hwan2272&result_id=4
 
 https://solved.ac/
 
