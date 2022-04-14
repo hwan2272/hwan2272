@@ -64,13 +64,13 @@ https://solved.ac/
 ### 2-1. `맞았습니다!!` 리스트 및 제출 소스 보기
 https://www.acmicpc.net/status?user_id=hwan2272&result_id=4
 
-![맞았습니다!!리스트](https://user-images.githubusercontent.com/65170244/163206133-eceb04be-5661-49b2-97d6-8d0462642917.jpg)
+![맞았습니다!!리스트_20220414](https://user-images.githubusercontent.com/65170244/163386961-94634919-c4da-472e-a8e8-fe8d74a5212c.jpg)
 
 ### 2-2. solved.ac (BOJ 티어평가) - 현재 SILVER III
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwan2272)](https://solved.ac/hwan2272)
 
-![rating_4](https://user-images.githubusercontent.com/65170244/163203292-36372f7c-74e9-4465-bf56-aa5d5808d3a2.jpg)
+![rating_20220414](https://user-images.githubusercontent.com/65170244/163386948-25c57614-ef3c-4f68-ad9b-6f512ef9e34b.jpg)
 
 
 ### 3. Programmers
