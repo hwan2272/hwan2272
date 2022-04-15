@@ -64,18 +64,18 @@ https://www.acmicpc.net/
 https://solved.ac/
 
 
-### 2-1. `맞았습니다!!` 리스트 및 제출 소스 보기 - 현재 해결 113
+### 2-1. `맞았습니다!!` 리스트 및 제출 소스 보기 - 현재 해결 117
 
 https://www.acmicpc.net/status?user_id=hwan2272&result_id=4
 
-![맞았습니다!!리스트_20220414](https://user-images.githubusercontent.com/65170244/163386961-94634919-c4da-472e-a8e8-fe8d74a5212c.jpg)
+![맞았습니다!!리스트_20220415](https://user-images.githubusercontent.com/65170244/163567262-9a187a01-f429-4a17-9187-135b5c23b778.jpg)
 
 
-### 2-2. solved.ac (BOJ 티어평가) - 현재 SILVER III
+### 2-2. solved.ac (BOJ 티어평가) - 현재 SILVER II
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwan2272)](https://solved.ac/hwan2272)
 
-![rating_20220414](https://user-images.githubusercontent.com/65170244/163386948-25c57614-ef3c-4f68-ad9b-6f512ef9e34b.jpg)
+![rating_20220415](https://user-images.githubusercontent.com/65170244/163567263-71158094-9470-4460-addd-3ac9c9bce56e.jpg)
 
 
 
