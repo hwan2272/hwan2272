@@ -64,18 +64,18 @@ https://www.acmicpc.net/
 https://solved.ac/
 
 
-### 2-1. `맞았습니다!!` - 현재 120
+### 2-1. `맞았습니다!!` - 현재 126
 
 https://www.acmicpc.net/status?user_id=hwan2272&result_id=4
 
-![맞았습니다!!리스트_20220420](https://user-images.githubusercontent.com/65170244/164236484-130346c7-f6da-48e9-a08d-e1dab81279d9.jpg)
+![맞았습니다!!리스트_20220421](https://user-images.githubusercontent.com/65170244/164453450-4f07f8df-3974-4e99-b048-6574c9c16e52.jpg)
 
 
 ### 2-2. solved.ac (BOJ 티어평가) - 현재 SILVER II
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwan2272)](https://solved.ac/hwan2272)
 
-![rating_20220420](https://user-images.githubusercontent.com/65170244/164236492-539e46a4-a6e1-41d6-9006-5d25985d860a.jpg)
+![rating_20220421](https://user-images.githubusercontent.com/65170244/164453442-151f88e9-82ef-42cd-9058-cbb60b65b6dd.jpg)
 
 
 
