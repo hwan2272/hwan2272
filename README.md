@@ -64,9 +64,7 @@ https://www.acmicpc.net/
 https://solved.ac/
 
 
-### 2-1. `맞았습니다!!` 리스트 및 제출 소스 보기 - 현재 해결 119
-
-https://www.acmicpc.net/status?user_id=hwan2272&result_id=4
+### 2-1. `맞았습니다!!` 리스트 - 현재 해결 120
 
 ![맞았습니다!!리스트_20220420](https://user-images.githubusercontent.com/65170244/164236484-130346c7-f6da-48e9-a08d-e1dab81279d9.jpg)
 
