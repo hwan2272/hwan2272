@@ -64,7 +64,7 @@ https://www.acmicpc.net/
 https://solved.ac/
 
 
-### 2-1. `맞았습니다!!` - 현재 해결 120
+### 2-1. `맞았습니다!!` - 현재 120
 
 https://www.acmicpc.net/status?user_id=hwan2272&result_id=4
 
