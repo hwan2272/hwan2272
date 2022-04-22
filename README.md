@@ -25,16 +25,16 @@
 
 ### 2017-01 ~ 2022-04
 
-개발(Frontend/Backend),유지보수 (5년 4개월)
+개발(Frontend/Backend),유지보수 (5년 4개월) - 망분리(인터넷망/폐쇄망) 환경
 
-`Java` `ReactJS` `Vue.js` `MySQL` `Oracle` `Mybatis` `Apache Tomcat` `Apache` `Linux` `Spring Boot` `Python` `Spring Security` `JWT`
+`Java` `Spring` `Spring Boot` `Spring Security` `ReactJS` `Vue.js` `MySQL` `Oracle` `Mybatis` `Apache Tomcat` `Apache` `Linux` `Python` `JWT`
 
 
 ### 2012-11 ~ 2016-12
 
 SI/SM (4년 2개월)
 
-`Java` `ASP.NET` `MSSQL(Microsoft SQL Server)` `Oracle` `MySQL` `Mybatis` `Apache Tomcat` `Apache` `Spring`
+`Java` `Spring` `eGov (전자정부 표준프레임워크)` `ASP.NET` `MSSQL(Microsoft SQL Server)` `Oracle` `MySQL` `Mybatis` `Apache Tomcat` `Apache` 
 
 
 ### 2011-12 ~ 2012-07
