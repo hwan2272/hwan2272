@@ -45,6 +45,16 @@ SI/SM (4년 2개월)
 
 
 ---------------
+# * 자가 발전 (독학)
+
+### 2022-04 ~ 
+
+`알고리즘` `자료구조` `JPA(기존)` `Spring DataJPA` `Junit 5 및 TDD` `H2 Database` `MSA (Micro Service Architecture)` `기타 Spring 각종 고급기술[예정]`
+
+
+
+
+---------------
 # * 스킬업 활동
 
 ### 1. Github
