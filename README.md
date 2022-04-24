@@ -49,7 +49,7 @@ SI/SM (4년 2개월)
 
 ### 2022-04 ~ 
 
-`알고리즘` `자료구조` `JPA(기존)` `Spring DataJPA` `Junit 5 및 TDD` `H2 Database` `MSA (Micro Service Architecture)` `기타 Spring 각종 고급기술[예정]`
+`알고리즘` `자료구조` `JPA(기존)` `Spring DataJPA` `Junit 5 및 TDD` `H2 Database` `MSA (Micro Service Architecture)` `기타 Spring 각종 고급기술[예정]` `AWS EC2[예정]` `Docker[예정]`
 
 
 
