@@ -87,7 +87,7 @@ https://www.acmicpc.net/status?user_id=hwan2272&result_id=4
 
 ![rating_20220428](https://user-images.githubusercontent.com/65170244/165758053-6458f7e8-4de9-475a-ae91-80c5577ead47.jpg)
 
-![rating_20220428_2](https://user-images.githubusercontent.com/65170244/165758047-40d294f2-6058-4dc3-8015-b5c2b3ed857f.jpg)
+![rating_20220428_2](https://user-images.githubusercontent.com/65170244/165758651-11f030cc-4af9-4e65-91fb-366e78e6b422.jpg)
 
 
 
