@@ -85,7 +85,9 @@ https://www.acmicpc.net/status?user_id=hwan2272&result_id=4
 
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwan2272)](https://solved.ac/hwan2272)
 
-![rating_20220421](https://user-images.githubusercontent.com/65170244/164453442-151f88e9-82ef-42cd-9058-cbb60b65b6dd.jpg)
+![rating_20220428](https://user-images.githubusercontent.com/65170244/165758053-6458f7e8-4de9-475a-ae91-80c5577ead47.jpg)
+
+![rating_20220428_2](https://user-images.githubusercontent.com/65170244/165758047-40d294f2-6058-4dc3-8015-b5c2b3ed857f.jpg)
 
 
 
