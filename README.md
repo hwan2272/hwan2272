@@ -27,7 +27,7 @@
 
 개발(Frontend/Backend),유지보수 (5년 4개월) - 망분리(인터넷망/폐쇄망) 환경
 
-`Java` `Spring` `Spring Boot` `Spring Security` `Eclipse Plugin 개발(폴더/파일 업로드 플러그인)` `ReactJS` `Vue.js` `MySQL` `Oracle` `Mybatis` `Apache Tomcat` `Apache` `Linux` `JWT` `Swagger UI(개념,경험)` `Zookeeper(개념)` `Kibana(개념,경험)` `Kafka(개념,경험)` `Elastic Search(개념)` `Python(개념,경험)` `Redis(개념,경험)` `MultiPart 파일 업로드` ...
+`Java` `Spring` `Spring Boot` `Spring Security` `Eclipse Plugin 개발(폴더/파일 업로드 플러그인)` `bootstrap ui 1종(concept-master) 커스터마이즈 사용` `ReactJS` `Vue.js` `MySQL` `Oracle` `Mybatis` `Apache Tomcat` `Apache` `Linux` `JWT` `Swagger UI(개념,경험)` `Zookeeper(개념)` `Kibana(개념,경험)` `Kafka(개념,경험)` `Elastic Search(개념)` `Python(개념,경험)` `Redis(개념,경험)` `MultiPart 파일 업로드` ...
 
 
 ### 2012-11 ~ 2016-12
@@ -49,7 +49,7 @@ SI/SM (4년 2개월)
 
 ### 2022-04 ~ 
 
-`Spring Data JPA` `Junit 5-(entity Test용)` `MSA (Micro Service Architecture)` `Spring Cloud` `H2 Database` `RabbitMQ` `Kafka` `AOP` `Spring REST Docs[진행]` `디자인 패턴[진행]` `AWS EC2[예정]` `Docker[예정]` `Kotlin[예정]` `Android Studio[예정]`
+`Spring Data JPA` `Junit 5-(entity Test용)` `MSA (Micro Service Architecture)` `Spring Cloud` `H2 Database` `RabbitMQ` `Kafka` `AOP` `Spring REST Docs[진행]` `디자인 패턴[진행]` `AWS EC2[예정]` `Docker[예정]` `Kotlin[예정]` `Android Studio[예정]` `node.js backend[예정]`
 
 ### 기존
 
