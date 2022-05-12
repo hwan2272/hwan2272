@@ -49,7 +49,11 @@ SI/SM (4년 2개월)
 
 ### 2022-04 ~ 
 
-`알고리즘` `자료구조` `Spring Data JPA` `Junit 5-(entity Test용)` `MSA (Micro Service Architecture)` `Spring Cloud` `H2 Database` `RabbitMQ` `Kafka` `AOP` `Spring REST Docs[진행]` `디자인 패턴[진행]` `AWS EC2[예정]` `Docker[예정]` `Kotlin[예정]` `Android Studio[예정]`
+`Spring Data JPA` `Junit 5-(entity Test용)` `MSA (Micro Service Architecture)` `Spring Cloud` `H2 Database` `RabbitMQ` `Kafka` `AOP` `Spring REST Docs[진행]` `디자인 패턴[진행]` `AWS EC2[예정]` `Docker[예정]` `Kotlin[예정]` `Android Studio[예정]`
+
+### 기존
+
+`Svelt.js` `Ruby on Rails(홀딩)` `Python-dJango(홀딩)` `데이터 사이언스(Kaggle)-타이타닉문제(홀딩)`
 
 
 
