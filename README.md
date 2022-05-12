@@ -27,14 +27,14 @@
 
 개발(Frontend/Backend),유지보수 (5년 4개월) - 망분리(인터넷망/폐쇄망) 환경
 
-`Java` `Spring` `Spring Boot` `Spring Security` `Eclipse Plugin 개발(폴더/파일 업로드 플러그인)` `ReactJS` `Vue.js` `MySQL` `Oracle` `Mybatis` `Apache Tomcat` `Apache` `Linux` `JWT` `Swagger UI(개념,경험)` `Zookeeper(개념)` `Kibana(개념,경험)` `Kafka(개념,경험)` `Elastic Search(개념)` `Python(개념,경험)` `Redis(개념,경험)` ...
+`Java` `Spring` `Spring Boot` `Spring Security` `Eclipse Plugin 개발(폴더/파일 업로드 플러그인)` `ReactJS` `Vue.js` `MySQL` `Oracle` `Mybatis` `Apache Tomcat` `Apache` `Linux` `JWT` `Swagger UI(개념,경험)` `Zookeeper(개념)` `Kibana(개념,경험)` `Kafka(개념,경험)` `Elastic Search(개념)` `Python(개념,경험)` `Redis(개념,경험)` `MultiPart 파일 업로드` ...
 
 
 ### 2012-11 ~ 2016-12
 
 SI/SM (4년 2개월)
 
-`Java` `Spring` `eGov (전자정부 표준프레임워크)` `ASP.NET` `MSSQL(Microsoft SQL Server)` `Oracle` `MySQL` `Mybatis` `Apache Tomcat` `Apache` `AOP(개념,경험)`
+`Java` `Spring` `eGov (전자정부 표준프레임워크)` `Jeus Middleware(경험)` `ASP.NET` `C#` `MSSQL(Microsoft SQL Server)` `Oracle` `MySQL` `Mybatis` `Apache Tomcat` `Apache` `AOP(개념,경험)` `SiteMesh` `Apache Poi (excel)`
 
 
 ### 2011-12 ~ 2012-07
@@ -53,7 +53,7 @@ SI/SM (4년 2개월)
 
 ### 기존
 
-`Svelt.js` `Ruby on Rails(홀딩)` `Python-dJango(홀딩)` `데이터 사이언스(Kaggle)-타이타닉문제(홀딩)`
+`Svelt.js` `Ruby on Rails(홀딩)` `Python-dJango(홀딩)` `데이터 사이언스(Kaggle)-타이타닉(홀딩)`
 
 
 
