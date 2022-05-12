@@ -27,7 +27,7 @@
 
 개발(Frontend/Backend),유지보수 (5년 4개월) - 망분리(인터넷망/폐쇄망) 환경
 
-`Java` `Spring` `Spring Boot` `Spring Security` `Eclipse Plugin(파일업로드개발)` `ReactJS` `Vue.js` `MySQL` `Oracle` `Mybatis` `Apache Tomcat` `Apache` `Linux` `JWT` `Swagger UI(개념,경험)` `Zookeeper(개념)` `Kibana(개념,경험)` `Kafka(개념,경험)` `Elastic Search(개념)` `Python(개념,경험)` `Redis(개념,경험)` ...
+`Java` `Spring` `Spring Boot` `Spring Security` `Eclipse Plugin 개발(폴더/파일 업로드 플러그인)` `ReactJS` `Vue.js` `MySQL` `Oracle` `Mybatis` `Apache Tomcat` `Apache` `Linux` `JWT` `Swagger UI(개념,경험)` `Zookeeper(개념)` `Kibana(개념,경험)` `Kafka(개념,경험)` `Elastic Search(개념)` `Python(개념,경험)` `Redis(개념,경험)` ...
 
 
 ### 2012-11 ~ 2016-12
