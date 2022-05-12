@@ -27,14 +27,14 @@
 
 개발(Frontend/Backend),유지보수 (5년 4개월) - 망분리(인터넷망/폐쇄망) 환경
 
-`Java` `Spring` `Spring Boot` `Spring Security` `ReactJS` `Vue.js` `MySQL` `Oracle` `Mybatis` `Apache Tomcat` `Apache` `Linux` `Python` `JWT` `Swagger UI`
+`Java` `Spring` `Spring Boot` `Spring Security` `Eclipse Plugin(파일업로드개발)` `ReactJS` `Vue.js` `MySQL` `Oracle` `Mybatis` `Apache Tomcat` `Apache` `Linux` `JWT` `Swagger UI(개념,경험)` `Zookeeper(개념)` `Kibana(개념,경험)` `Kafka(개념,경험)` `Elastic Search(개념)` `Python(개념,경험)` `Redis(개념,경험)` ...
 
 
 ### 2012-11 ~ 2016-12
 
 SI/SM (4년 2개월)
 
-`Java` `Spring` `eGov (전자정부 표준프레임워크)` `ASP.NET` `MSSQL(Microsoft SQL Server)` `Oracle` `MySQL` `Mybatis` `Apache Tomcat` `Apache` 
+`Java` `Spring` `eGov (전자정부 표준프레임워크)` `ASP.NET` `MSSQL(Microsoft SQL Server)` `Oracle` `MySQL` `Mybatis` `Apache Tomcat` `Apache` `AOP(개념,경험)`
 
 
 ### 2011-12 ~ 2012-07
@@ -49,7 +49,7 @@ SI/SM (4년 2개월)
 
 ### 2022-04 ~ 
 
-`알고리즘` `자료구조` `Spring Data JPA` `Junit 5` `MSA (Micro Service Architecture)` `Spring Cloud` `H2 Database` `RabbitMQ` `Kafka` `AOP` `Spring REST Docs[진행]` `디자인 패턴[진행]` `AWS EC2[예정]` `Docker[예정]`
+`알고리즘` `자료구조` `Spring Data JPA` `Junit 5-(entity Test용)` `MSA (Micro Service Architecture)` `Spring Cloud` `H2 Database` `RabbitMQ` `Kafka` `AOP` `Spring REST Docs[진행]` `디자인 패턴[진행]` `AWS EC2[예정]` `Docker[예정]`
 
 
 
