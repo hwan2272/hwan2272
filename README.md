@@ -49,7 +49,7 @@ SI/SM (4년 2개월)
 
 ### 2022-04 ~ 
 
-`Spring Data JPA` `Junit 5-(entity Test용)` `MSA (Micro Service Architecture)` `Spring Cloud` `H2 Database` `RabbitMQ` `Kafka` `AOP` `Spring REST Docs[진행]` `디자인 패턴[진행]` `AWS EC2[예정]` `Oracle Virtual Box` `Kubernetes` `Docker[예정]` `Kotlin[예정]` `Android Studio[예정]` `node.js backend[예정]`
+`Spring Data JPA` `Junit 5-(entity Test용)` `MSA (Micro Service Architecture)` `Spring Cloud` `H2 Database` `RabbitMQ` `Kafka` `AOP` `Spring REST Docs[진행]` `디자인 패턴[진행]` `AWS EC2[예정]` `Oracle Virtual Box` `Kubernetes(개념,경험)` `Docker[예정]` `Kotlin[예정]` `Android Studio[예정]` `node.js backend[예정]`
 
 ### 기존
 
