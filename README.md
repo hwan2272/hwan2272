@@ -65,10 +65,11 @@ SI/SM (4년 2개월)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hwan2272&theme=nord&column=4)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=msa_ecomms)](https://github.com/hwan2272/msa_ecomms)
 
-<!--![hwan2272's github stats](https://github-readme-stats.vercel.app/api?username=hwan2272&show_icons=true)
+![hwan2272's github stats](https://github-readme-stats.vercel.app/api?username=hwan2272&show_icons=true)
 [![hwan2272's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hwan2272&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/hwan2272)
--->
+
 
 
 ### 2. 백준 Online Judge (BOJ)
