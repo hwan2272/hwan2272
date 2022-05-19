@@ -27,14 +27,14 @@
 
 개발(Frontend/Backend),유지보수 (5년 4개월) - 망분리(인터넷망/폐쇄망) 환경
 
-`Java` `Spring` `Spring Boot` `Spring Security` `Eclipse Plugin 개발(폴더/파일 업로드 플러그인)` `bootstrap ui 1종(concept-master) css 테마 커스터마이즈` `ReactJS` `Vue.js` `MySQL` `Oracle` `Mybatis` `Apache Tomcat` `Apache` `Linux` `JWT` `Oracle Virtual Box(개념,경험)` `Swagger UI(개념,경험)` `Zookeeper(개념)` `Kibana(개념,경험)` `Kafka(개념,경험)` `Elastic Search(개념)` `Python(개념,경험)` `Redis(개념,경험)` `MultiPart 파일 업로드` ...
+`Java` `Spring` `Spring Boot` `Spring Security` `Eclipse Plugin 개발(폴더/파일 업로드 플러그인)` `bootstrap ui 1종(concept-master) css 테마 커스터마이즈` `ReactJS` `Vue.js` `MySQL(MariaDB)` `Oracle` `Mybatis` `Apache Tomcat` `Apache` `Linux` `JWT` `Oracle Virtual Box(개념,경험)` `Swagger UI(개념,경험)` `Zookeeper(개념)` `Kibana(개념,경험)` `Kafka(개념,경험)` `Elastic Search(개념)` `Python(개념,경험)` `Redis(개념,경험)` `MultiPart 파일 업로드` ...
 
 
 ### 2012-11 ~ 2016-12
 
 SI/SM (4년 2개월)
 
-`Java` `Spring` `eGov (전자정부 표준프레임워크)` `Jeus Middleware(경험)` `ASP.NET` `C#` `MSSQL(Microsoft SQL Server)` `Oracle` `MySQL` `Mybatis` `Apache Tomcat` `Apache` `AOP(개념,경험)` `SiteMesh` `Apache Poi (excel)`
+`Java` `Spring` `eGov (전자정부 표준프레임워크)` `Jeus Middleware(경험)` `ASP.NET` `C#` `MSSQL(Microsoft SQL Server)` `Oracle` `MySQL(MariaDB)` `Mybatis` `Apache Tomcat` `Apache` `AOP(개념,경험)` `SiteMesh` `Apache Poi (excel)`
 
 
 ### 2011-12 ~ 2012-07
@@ -49,7 +49,7 @@ SI/SM (4년 2개월)
 
 ### 2022-04 ~ 
 
-`Spring Data JPA` `Junit 5-(entity Test용)` `MSA (Micro Service Architecture)` `Spring Cloud` `H2 Database` `RabbitMQ` `Kafka` `AOP` `Spring REST Docs[진행]` `디자인 패턴[진행]` `AWS EC2` `Oracle Virtual Box` `Vagrant(개념,경험)` `Kubernetes(개념,경험)` `Docker` `Kotlin[예정]` `Android Studio[예정]` `node.js backend[예정]`
+`Spring Data JPA` `Junit 5-(entity Test용)` `MSA (Micro Service Architecture)` `Spring Cloud` `H2 Database` `Mysql(MariaDB)` `RabbitMQ` `Kafka(Zookeeper/Producer/Consumer/Topic)-Windows환경` `Kafka Connect(distributed, sink connect)-Windows환경` `AOP` `AWS EC2` `Oracle Virtual Box` `Docker` `Vagrant(개념,경험)` `Kubernetes(개념,경험)` `Spring REST Docs[진행]` `디자인 패턴[진행]` `Kotlin[예정]` `Android Studio[예정]` `node.js backend[예정]`
 
 ### 기존
 
