@@ -129,7 +129,7 @@ https://www.inflearn.com/
 
 https://www.inflearn.com/chats/541160
 
-내용중 강사님이 클래스를 4개 나누어 작업한 것을 Dto 1개 클래스로 통합(DtoV1), 통합후 자체 개선점발견으로 개선(DtoV2)
+내용중 강사님이 클래스를 4개 나누어 작업한 것을 코드량을 줄여보고자 하여 Dto 1개 클래스로 통합 및 세팅(DtoV1), 통합후 자체 개선점발견으로 개선(DtoV2)
 - https://github.com/hwan2272/msa_ecomms/blob/main/order-service/src/main/java/com/hwan2272/msaecomms/dto/KafkaConnectOrderDtoV1.java
 - https://github.com/hwan2272/msa_ecomms/blob/main/order-service/src/main/java/com/hwan2272/msaecomms/dto/KafkaConnectOrderDtoV2.java
 
