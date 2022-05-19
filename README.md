@@ -117,11 +117,19 @@ https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 
 
 
-### 4. Inflearn 보유한 인강목록
+### 4. Inflearn 
+
+### 4-1. 보유한 인강목록
 
 https://www.inflearn.com/
 
 ![Inflearn 보유 강의_20220516](https://user-images.githubusercontent.com/65170244/168582256-313dac55-e1f6-4d97-a5b9-81106a15faba.jpg)
+
+### 4-2. 인강 기여
+
+https://www.inflearn.com/chats/541160
+
+내용중 강사님이 클래스를 4개 나누어 작업한 것을 Dto 1개 클래스로 통합(DtoV1), 통합후 자체 개선점발견으로 개선(DtoV2)
 
 
 
