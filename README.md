@@ -123,7 +123,7 @@ https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 
 https://www.inflearn.com/
 
-![Inflearn 보유 강의_20220516](https://user-images.githubusercontent.com/65170244/168582256-313dac55-e1f6-4d97-a5b9-81106a15faba.jpg)
+![Inflearn 보유 강의_20220524](https://user-images.githubusercontent.com/65170244/169959912-892a4a52-3bdb-4988-a81f-e53d8ec60fa8.jpg)
 
 ### 4-2. 인강 기여
 
