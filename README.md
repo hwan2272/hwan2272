@@ -59,7 +59,17 @@ SI/SM (4년 2개월)
 
 
 ---------------
-# * 스킬업 활동
+# * 활동
+
+
+## 0. 세미나/웨비나/오프라인/온라인
+
+## [OKKY 5월 세미나] 실전 MSA 경험 공유(https://okky.kr/article/1229709)
+
+- 분류: `웨비나`, `MSA`
+- 주최: `okky`
+- 일시: 05. 26(목) 20:00 ~ 22:00
+
 
 ### 1. Github
 
@@ -69,7 +79,6 @@ SI/SM (4년 2개월)
 
 ![hwan2272's github stats](https://github-readme-stats.vercel.app/api?username=hwan2272&show_icons=true&theme=nord)
 [![hwan2272's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hwan2272&show_icons=true&icon_color=004386&layout=compact&theme=nord)](https://github.com/hwan2272)
-
 
 
 ### 2. 백준 Online Judge (BOJ)
@@ -95,7 +104,6 @@ https://www.acmicpc.net/status?user_id=hwan2272&result_id=4
 ![rating_20220428_2](https://user-images.githubusercontent.com/65170244/165758651-11f030cc-4af9-4e65-91fb-366e78e6b422.jpg)
 
 
-
 ### 3. Programmers
 
 ### 3-1. 과제관-주문관리 API 서버 개발
@@ -114,7 +122,6 @@ https://programmers.co.kr/learn/challenges?tab=sql_practice_kit
 https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 
 ![programmers 코테연습 (해결중)_3](https://user-images.githubusercontent.com/65170244/162095297-aa15ea93-6a1c-4115-a64c-7316e433c4fd.png)
-
 
 
 ### 4. Inflearn 
