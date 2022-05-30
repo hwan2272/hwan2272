@@ -77,7 +77,7 @@ SI/SM (4년 2개월)
 3. 등등..
 
 
-## [5월 우아한테크세미나 토크쇼] 우아한형제들 개발자가 푸는, 공부하고 성장하는 노하우?! : 5월 우아한테크세미나(https://www.youtube.com/watch?v=QutIXPbKWpw)
+## [토크쇼] 우아한형제들 개발자가 푸는, 공부하고 성장하는 노하우?! : 5월 우아한테크세미나(https://www.youtube.com/watch?v=QutIXPbKWpw)
 
 - 분류 : `온라인`, `YouTube Live`
 - 주최: `우아한형제들`, `우아한Tech`
