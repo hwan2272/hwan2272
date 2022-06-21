@@ -84,6 +84,13 @@ SI/SM (4년 2개월)
 - 일시: 05. 30(월) 19:00 ~ 21:00
 
 
+## Korea Spring Meetup with Josh Long
+
+- 분류: `웨비나`, `스프링`
+- 주최: `VMware Tanzu Korea`
+- 일시: 06. 22(수) 14:00 ~ 17:00
+
+
 ### 1. Github
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hwan2272&theme=nord&column=4)
