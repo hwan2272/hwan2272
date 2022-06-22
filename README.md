@@ -94,7 +94,7 @@ SI/SM (4년 2개월)
 2. graphQL 사용하여 테스트하는 방법 확인. record Customer / 이외 java 17 사용하여 테스트하는 모습 등을 확인
 3. MSA구성에 spring cloud kubenetes 라는 라이브러리 사용해서 spring cloud 내에서 쿠버네티스 옵션 설정하는 방법 및 구성 아키텍쳐 확인
 4. Tanzu 회사의 tanzu Observablilty 적용해서 모니터링 하는 방법 소개
-5. Tanzu 회사의 scdf 사용법 등 소개. 이때는 약간 생소하다 보니 조금 집중도가 떨어짐..
+5. Tanzu 회사의 scdf (Spring Cloud Data Flow) 사용법 등 소개. 이때는 약간 생소하다 보니 조금 집중도가 떨어짐..
 
 
 ### 1. Github
