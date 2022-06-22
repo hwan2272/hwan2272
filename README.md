@@ -84,7 +84,7 @@ SI/SM (4년 2개월)
 - 일시: 05. 30(월) 19:00 ~ 21:00
 
 
-## Korea Spring Meetup with Josh Long
+## [Meetup] Korea Spring Meetup with Josh Long
 
 - 분류: `웨비나`, `스프링`
 - 주최: `VMware Tanzu Korea`
