@@ -90,7 +90,7 @@ SI/SM (4년 2개월)
 - 주최: `VMware Tanzu Korea`
 - 일시: 06. 22(수) 14:00 ~ 17:00
 - 참석후기 :
-1. Jusua Long 자바 챔피언의 실제 코드치는 모습을 확인. 타자속도 또한 엄청 빠름..
+1. 자바 챔피언 Joshua Long 의 실제 코드치는 모습을 확인. 타자속도 또한 엄청 빠름..
 2. graphQL 사용하여 테스트하는 방법 확인. record Customer / 이외 java 17 사용하여 테스트하는 모습 등을 확인
 3. MSA구성에 spring cloud kubenetes 라는 라이브러리 사용해서 spring cloud 내에서 쿠버네티스 옵션 설정하는 방법 및 구성 아키텍쳐 확인
 4. Tanzu 회사의 tanzu Observablilty 적용해서 모니터링 하는 방법 소개
