@@ -64,26 +64,27 @@ SI/SM (4년 2개월)
 
 ## 0. 세미나/웨비나/오프라인/온라인
 
-## [OKKY 5월 세미나] 실전 MSA 경험 공유(https://okky.kr/article/1229709)
-
-- 분류: `웨비나`, `MSA`
-- 주최: `okky`
-- 일시: 05. 26(목) 20:00 ~ 22:00
-- 참석후기 정리 : https://github.com/hwan2272/webinar
-
-## [토크쇼] 우아한형제들 개발자가 푸는, 공부하고 성장하는 노하우?! : 5월 우아한테크세미나(https://www.youtube.com/watch?v=QutIXPbKWpw)
-
-- 분류 : `온라인`, `YouTube Live`
-- 주최: `우아한형제들`, `우아한Tech`
-- 일시: 05. 30(월) 19:00 ~ 21:00
-- 참석후기 정리 : https://github.com/hwan2272/webinar
-
-## [Meetup] VMware Tanzu Korea - Korea Spring Meetup with Josh Long
+## 2022-06-22 "[Meetup] VMware Tanzu Korea - Korea Spring Meetup with Josh Long"
 
 - 분류: `웨비나`, `스프링`
 - 주최: `VMware Tanzu Korea`
 - 일시: 06. 22(수) 14:00 ~ 17:00
-- 참석후기 정리 : https://github.com/hwan2272/webinar
+- 참석후기 : https://github.com/hwan2272/webinar
+
+## 2022-05-30 "[토크쇼] 우아한형제들 개발자가 푸는, 공부하고 성장하는 노하우?! : 5월 우아한테크세미나(https://www.youtube.com/watch?v=QutIXPbKWpw)"
+
+- 분류 : `온라인`, `YouTube Live`
+- 주최: `우아한형제들`, `우아한Tech`
+- 일시: 05. 30(월) 19:00 ~ 21:00
+- 참석후기 : https://github.com/hwan2272/webinar
+
+## 2022-05-26 "[OKKY 5월 세미나] 실전 MSA 경험 공유(https://okky.kr/article/1229709)"
+
+- 분류: `웨비나`, `MSA`
+- 주최: `okky`
+- 일시: 05. 26(목) 20:00 ~ 22:00
+- 참석후기 : https://github.com/hwan2272/webinar
+
 
 
 ### 1. Github
