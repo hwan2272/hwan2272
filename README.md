@@ -76,7 +76,6 @@ SI/SM (4년 2개월)
 - 분류 : `온라인`, `YouTube Live`
 - 주최: `우아한형제들`, `우아한Tech`
 - 일시: 05. 30(월) 19:00 ~ 21:00
-- 참석후기 : https://github.com/hwan2272/webinar
 
 ## 2022-05-26 "[OKKY 5월 세미나] 실전 MSA 경험 공유(https://okky.kr/article/1229709)"
 
