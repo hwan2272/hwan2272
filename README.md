@@ -72,8 +72,8 @@ SI/SM (4년 2개월)
 
 ## 2022-06-26 (예정) "Flutter I/O Extended Korea 2022"
 
-- 분류: 웨비나, Flutter
-- 주최: Flutter Korea
+- 분류: `웨비나`, `Flutter`
+- 주최: `Flutter Korea`
 - 일시: 06. 26(일) 14:00 ~ 17:00
 
 ## 2022-06-22 "[Meetup] VMware Tanzu Korea - Korea Spring Meetup with Josh Long"
