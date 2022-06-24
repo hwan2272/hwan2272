@@ -70,7 +70,7 @@ SI/SM (4년 2개월)
 - 주최: `우아한형제들`, `우아한Tech`
 - 일시: 06. 29(수) 19:00 ~ 21:00
 
-## 2022-06-26 (예정) "Flutter I/O Extended Korea 2022"
+## 2022-06-26 (예정) "[Offline&Webinar] Flutter Korea - Flutter I/O Extended Korea 2022"
 
 - 분류: `웨비나`, `Flutter`
 - 주최: `Flutter Korea`
