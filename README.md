@@ -77,6 +77,7 @@ SI/SM (4년 2개월)
 - 분류: `웨비나`, `Flutter`
 - 주최: `Flutter Korea`
 - 일시: 06. 26(일) 14:00 ~ 18:20
+- 참석후기 : 작성예정
 
 ## 2022-06-22 "[Meetup] VMware Tanzu Korea - Korea Spring Meetup with Josh Long"
 
