@@ -98,7 +98,7 @@ SI/SM (4년 2개월)
 - 분류: `웨비나`, `MSA`
 - 주최: `okky`
 - 일시: 05. 26(목) 20:00 ~ 22:00
-- 참석후기 : https://github.com/hwan2272/webinar
+- 참석후기 : https://github.com/hwan2272/webinar#2022-05-26-okky-5%EC%9B%94-%EC%84%B8%EB%AF%B8%EB%82%98-%EC%8B%A4%EC%A0%84-msa-%EA%B2%BD%ED%97%98-%EA%B3%B5%EC%9C%A0httpsokkykrarticle1229709
 
 
 
