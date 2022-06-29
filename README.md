@@ -114,6 +114,9 @@ SI/SM (4년 2개월)
 
 ### 2. 백준 Online Judge (BOJ)
 
+<details>
+<summary> | </summary>
+
 https://www.acmicpc.net/
 
 https://solved.ac/
@@ -134,8 +137,11 @@ https://www.acmicpc.net/status?user_id=hwan2272&result_id=4
 
 ![rating_20220428_2](https://user-images.githubusercontent.com/65170244/165758651-11f030cc-4af9-4e65-91fb-366e78e6b422.jpg)
 
+</details>
 
 ### 3. Programmers
+<details>
+<summary> | </summary>
 
 ### 3-1. 과제관-주문관리 API 서버 개발
 https://programmers.co.kr/skill_check_assignments/232
@@ -154,8 +160,12 @@ https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 
 ![programmers 코테연습 (해결중)_3](https://user-images.githubusercontent.com/65170244/162095297-aa15ea93-6a1c-4115-a64c-7316e433c4fd.png)
 
+</details>
 
 ### 4. Inflearn 
+
+<details>
+<summary> | </summary>
 
 ### 4-1. 보유한 인강목록
 
@@ -171,6 +181,6 @@ https://www.inflearn.com/chats/541160
 - https://github.com/hwan2272/msa_ecomms/blob/main/order-service/src/main/java/com/hwan2272/msaecomms/dto/KafkaConnectOrderDtoV1.java
 - https://github.com/hwan2272/msa_ecomms/blob/main/order-service/src/main/java/com/hwan2272/msaecomms/dto/KafkaConnectOrderDtoV2.java
 
-
+</details>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Best%20Regards.&animation=twinkling&fontSize=50&fontColor=64ffe2)
