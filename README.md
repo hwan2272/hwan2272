@@ -85,7 +85,7 @@ SI/SM (4년 2개월)
 - 분류: `웨비나`, `스프링`
 - 주최: `VMware Tanzu Korea`
 - 일시: 06. 22(수) 14:00 ~ 17:00
-- 참석후기 : https://github.com/hwan2272/webinar
+- 참석후기 : https://github.com/hwan2272/webinar#2022-06-22-meetup-vmware-tanzu-korea---korea-spring-meetup-with-josh-long
 
 ## 2022-05-30 "[토크쇼] 우아한형제들 개발자가 푸는, 공부하고 성장하는 노하우?! : 5월 우아한테크세미나(https://www.youtube.com/watch?v=QutIXPbKWpw)"
 
