@@ -71,7 +71,7 @@ SI/SM (4년 2개월)
 - 분류 : `온라인`, `YouTube Live`
 - 주최: `우아한형제들`, `우아한Tech`
 - 일시: 06. 29(수) 19:00 ~ 21:00
-- 참석후기 : https://github.com/hwan2272/webinar
+- 참석후기 : https://github.com/hwan2272/webinar#2022-06-29-%ED%86%A0%ED%81%AC%EC%87%BC-6%EC%9B%94-%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%84%B8%EB%AF%B8%EB%82%98-%ED%86%A0%ED%81%AC%EC%87%BC--%ED%94%84%EB%A1%9C%EB%8D%95%ED%8A%B8%EB%A5%BC-%EB%A7%8C%EB%93%9C%EB%8A%94-%EC%82%AC%EB%9E%8C%EB%93%A4-%EC%95%88-%EB%90%9C%EB%8B%A4%EA%B3%A0-%ED%95%98%EC%A7%80-%EB%A7%90%EC%95%84%EC%9A%94-%EA%B0%9C%EB%B0%9C%EC%9E%90%EB%94%94%EC%9E%90%EC%9D%B4%EB%84%88%EA%B8%B0%ED%9A%8D%EC%9E%90-%EC%82%BC%ED%8C%8C%EC%A0%84
 
 ## 2022-06-26 "[Offline&Webinar] Flutter Korea - Flutter I/O Extended Korea 2022"
 
