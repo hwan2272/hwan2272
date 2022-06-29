@@ -115,7 +115,7 @@ SI/SM (4년 2개월)
 ### 2. 백준 Online Judge (BOJ)
 
 <details>
-<summary> | </summary>
+<summary> | 접기/펼치기 | </summary>
 
 https://www.acmicpc.net/
 
@@ -141,7 +141,7 @@ https://www.acmicpc.net/status?user_id=hwan2272&result_id=4
 
 ### 3. Programmers
 <details>
-<summary> | </summary>
+<summary> | 접기/펼치기 | </summary>
 
 ### 3-1. 과제관-주문관리 API 서버 개발
 https://programmers.co.kr/skill_check_assignments/232
@@ -165,7 +165,7 @@ https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 ### 4. Inflearn 
 
 <details>
-<summary> | </summary>
+<summary> | 접기/펼치기 | </summary>
 
 ### 4-1. 보유한 인강목록
 
