@@ -71,13 +71,14 @@ SI/SM (4년 2개월)
 - 분류 : `온라인`, `YouTube Live`
 - 주최: `우아한형제들`, `우아한Tech`
 - 일시: 06. 29(수) 19:00 ~ 21:00
+- 참석후기 : https://github.com/hwan2272/webinar
 
 ## 2022-06-26 "[Offline&Webinar] Flutter Korea - Flutter I/O Extended Korea 2022"
 
 - 분류: `웨비나`, `Flutter`
 - 주최: `Flutter Korea`
 - 일시: 06. 26(일) 14:00 ~ 18:20
-- 참석후기 : 작성예정
+- 참석후기 : https://github.com/hwan2272/webinar
 
 ## 2022-06-22 "[Meetup] VMware Tanzu Korea - Korea Spring Meetup with Josh Long"
 
