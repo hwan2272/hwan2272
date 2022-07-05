@@ -181,7 +181,7 @@ https://www.inflearn.com/chats/541160
 </details>
 
 ---------------
-# * 보유도서, 읽는 책
+# * 보유도서/얻은 책/읽는 책
 
 1. 소프트웨어 장인 - [산드로 만쿠소]
 2. 오늘부터 웃으며 거절할게요 - [저우웨이리]
@@ -194,5 +194,7 @@ https://www.inflearn.com/chats/541160
 9. 현대인의 정신건강 - [이동식]
 10. 바닷가 작업실에서는 전혀 다른 시간이 흐른다 - [김정운]
 11. 어떻게 일하며 성장할 것인가 - [전영민]
+12. AWS클라우드 기반의 DJANGO 웹 애플리케이션 - [신성진]
+13. 파이썬으로 만드는 OpenCV 프로젝트 - [이세우]
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Best%20Regards.&animation=twinkling&fontSize=50&fontColor=64ffe2)
