@@ -180,4 +180,21 @@ https://www.inflearn.com/chats/541160
 
 </details>
 
+---------------
+# * 읽는 책
+
+소프트웨어 장인
+
+오늘부터 웃으며 거절할게요
+
+도메인 주도 개발 시작하기-DDD 핵심 개념 정리부터 구현까지
+
+Do it 자료구조와 함께 배우는 알고리즘 입문
+
+팀장으로 산다는 건
+
+Cent Os 7으로 리눅스 핵심 이해하기
+
+
+
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Best%20Regards.&animation=twinkling&fontSize=50&fontColor=64ffe2)
