@@ -193,6 +193,6 @@ https://www.inflearn.com/chats/541160
 8. 심리학을 만나 행복해졌다 - [장원청]
 9. 현대인의 정신건강 - [이동식]
 10. 바닷가 작업실에서는 전혀 다른 시간이 흐른다 - [김정운]
-
+11. 어떻게 일하며 성장할 것인가 - [전영민]
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Best%20Regards.&animation=twinkling&fontSize=50&fontColor=64ffe2)
