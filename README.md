@@ -190,7 +190,9 @@ https://www.inflearn.com/chats/541160
 5. 팀장으로 산다는 건 - [김진영]
 6. 작지만 강력한 디테일의 힘 - [왕중추]
 7. CentOS07으로 리눅스 핵심 이해하기 - [정성재 등]
-
+8. 심리학을 만나 행복해졌다 - [장원청]
+9. 현대인의 정신건강 - [이동식]
+10. 바닷가 작업실에서는 전혀 다른 시간이 흐른다 - [김정운]
 
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Best%20Regards.&animation=twinkling&fontSize=50&fontColor=64ffe2)
