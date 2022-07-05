@@ -47,7 +47,7 @@ SI/SM (4년 2개월)
 ---------------
 # * 자체 학습
 
-### 2022-04 ~ 
+### 2022-05 ~ 
 
 `Spring Data JPA` `Junit 5-(entity, controller Test용 => Spring Rest Docs적용)` `MSA (Micro Service Architecture)` `Spring Cloud` `H2 Database` `Mysql(MariaDB)` `RabbitMQ` `Kafka(Zookeeper/Producer/Consumer/Topic)-Windows환경` `Kafka Connect(distributed, sink connect)-Windows환경` `Zipkin` `Prometheus` `Grafana` `Oracle Virtual Box` `Docker` `Vagrant(개념,경험)` `Kubernetes(개념,경험)` `Spring Rest Docs` `디자인 패턴` `Kotlin[예정]` `Android Studio[예정]` `node.js backend[예정]` `AWS EC2` `AWS S3(개념,경험)` `AWS CloudFront(개념,경험)` `AWS RDS(개념,경험)`
 
