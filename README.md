@@ -67,7 +67,7 @@ SI/SM (4년 2개월)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=webinar&show_owner=true&theme=maroongold)](https://github.com/hwan2272/webinar)
 
-## 2022-07-13(예정) "[Webinar] 오픈서치 기반 오라클 클라우드의 Search Service 알아보기"
+## 2022-07-13(예정) "[Webinar] 한국오라클 - 오픈서치 기반 오라클 클라우드의 Search Service 알아보기"
 
 - 분류: `웨비나`, `클라우드`
 - 주최: `오라클`
