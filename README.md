@@ -67,6 +67,12 @@ SI/SM (4년 2개월)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=webinar&show_owner=true&theme=maroongold)](https://github.com/hwan2272/webinar)
 
+## 2022-07-19(예정) "[Webinar] Okta Identity Korea - 개발자의,개발자에 의한,개발자를 위한 개발자 중심의 Okta Identity 플랫폼"
+
+- 분류: `웨비나` `LiveStorm`
+- 주최: `Okta Identity Korea` (https://www.okta.com)
+- 일시: 07. 19(화) 14:00 ~ 15:00
+
 ## 2022-07-13 "[Webinar] 한국오라클 - 오픈서치 기반 오라클 클라우드의 Search Service 알아보기"
 
 - 분류: `웨비나`, `클라우드`
