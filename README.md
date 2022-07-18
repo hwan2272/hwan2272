@@ -67,6 +67,13 @@ SI/SM (4년 2개월)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=webinar&show_owner=true&theme=maroongold)](https://github.com/hwan2272/webinar)
 
+
+## 2022-07-21(예정) "[Online/Offline] 2022 Google I/O Extended for Maps in Seoul"
+
+- 분류: `온라인`, `오프라인`, `클라우드`
+- 주최: `Google Maps Platform`, `SPH` (https://www.sphinfo.com/gmp220708/)
+- 일시: 07. 21(목) 14:00 ~ 16:30
+
 ## 2022-07-19(예정) "[Webinar] Okta Identity Korea - 개발자의,개발자에 의한,개발자를 위한 개발자 중심의 Okta Identity 플랫폼"
 
 - 분류: `웨비나` `LiveStorm`
