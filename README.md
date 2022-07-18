@@ -73,7 +73,7 @@ SI/SM (4년 2개월)
 
 - 분류: `웨비나` `LiveStorm`
 - 주최: `Okta Identity Korea` (https://www.okta.com)
-- 일시: 07. 19(화) 14:00 ~ 15:00
+- 일시: 07. 19( 07. 26(화) 14:00 ~ 15:00
 
 ## 2022-07-21(예정) "[Online/Offline] 2022 Google I/O Extended for Maps in Seoul"
 
