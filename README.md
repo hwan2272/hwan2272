@@ -73,6 +73,7 @@ SI/SM (4년 2개월)
 - 분류: `온라인`, `오프라인`, `클라우드`
 - 주최: `Google Maps Platform`, `SPH` (https://www.sphinfo.com/gmp220708/)
 - 일시: 07. 21(목) 14:00 ~ 16:30
+- 참석신청은 해놓음. 근데 링크가 안오면 참석불가능
 
 ## 2022-07-19(예정) "[Webinar] Okta Identity Korea - 개발자의,개발자에 의한,개발자를 위한 개발자 중심의 Okta Identity 플랫폼"
 
