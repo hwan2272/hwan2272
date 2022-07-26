@@ -80,7 +80,7 @@ SI/SM (4년 2개월)
 - 주최: `Okta Identity Korea` (https://www.okta.com)
 - 일시: 07. 19(X) => 07. 26(화) 14:00 ~ 15:00
 
-## 2022-07-21 "[Online/Offline] 2022 Google I/O Extended for Maps in Seoul"
+## 2022-07-21 "[Online&Offline] 2022 Google I/O Extended for Maps in Seoul"
 
 - 분류: `온라인`, `오프라인`, `클라우드`
 - 주최: `Google Maps Platform`, `SPH` (https://www.sphinfo.com/gmp220708/)
