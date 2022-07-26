@@ -68,10 +68,15 @@ SI/SM (4년 2개월)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=webinar&show_owner=true&theme=maroongold)](https://github.com/hwan2272/webinar)
 
 
+## 2022-07-27(예정) "[토크쇼] 7월 우아한테크세미나 토크쇼 | 개발자도 글을 잘 써야 한다고요?! : 개발자를 위한 글쓰기 코칭의 시간 with 테크니컬 라이팅 코치"
 
-## 2022-07-26(연기) "[Webinar] Okta Identity Korea - 개발자의,개발자에 의한,개발자를 위한 개발자 중심의 Okta Identity 플랫폼"
+- 분류 : `온라인`, `YouTube Live`
+- 주최: `우아한형제들`, `우아한Tech`
+- 일시: 07. 27(수) 19:00 ~ 21:00
 
-- 분류: `웨비나` `LiveStorm`
+## 2022-07-26 "[Webinar] Okta Identity Korea - 개발자의,개발자에 의한,개발자를 위한 개발자 중심의 Okta Identity 플랫폼"
+
+- 분류: `웨비나`, `LiveStorm`
 - 주최: `Okta Identity Korea` (https://www.okta.com)
 - 일시: 07. 19(X) => 07. 26(화) 14:00 ~ 15:00
 
