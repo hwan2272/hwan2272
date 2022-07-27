@@ -222,5 +222,6 @@ https://www.inflearn.com/chats/541160
 * 어떻게 일하며 성장할 것인가 - [전영민]
 * AWS클라우드 기반의 DJANGO 웹 애플리케이션 - [신성진]
 * 파이썬으로 만드는 OpenCV 프로젝트 - [이세우]
+* 가상 면접 사례로 배우는 대규모 시스템 설계 기초 - [알렉스 쉬]
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Best%20Regards.&animation=twinkling&fontSize=50&fontColor=64ffe2)
