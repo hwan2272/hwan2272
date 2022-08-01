@@ -63,9 +63,9 @@ SI/SM (4년 2개월)
 
 
 ## 0. 세미나/웨비나/오프라인/온라인
-## 참석후기
+<!--## 참석후기
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=webinar&show_owner=true&theme=maroongold)](https://github.com/hwan2272/webinar)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=webinar&show_owner=true&theme=maroongold)](https://github.com/hwan2272/webinar)-->
 
 
 ## 2022-07-27 "[토크쇼] 7월 우아한테크세미나 토크쇼 | 개발자도 글을 잘 써야 한다고요?! : 개발자를 위한 글쓰기 코칭의 시간 with 테크니컬 라이팅 코치"
