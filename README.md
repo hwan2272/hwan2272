@@ -67,7 +67,7 @@ SI/SM (4년 2개월)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=webinar&show_owner=true&theme=maroongold)](https://github.com/hwan2272/webinar)-->
 
-## 2022-08-31(예정) "[토크쇼] 8월 우아한테크세미나 토크쇼 | 개발자가 꼭 알아야 할 애플리케이션 보안: 입문부터 놓치면 안될 트렌드까지?!"
+## 2022-08-31 "[토크쇼] 8월 우아한테크세미나 토크쇼 | 개발자가 꼭 알아야 할 애플리케이션 보안: 입문부터 놓치면 안될 트렌드까지?!"
 
 - 분류 : `온라인`, `YouTube Live`
 - 주최: `우아한형제들`, `우아한Tech`
