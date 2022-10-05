@@ -53,7 +53,7 @@ SI/SM (4년 2개월)
 
 ### 기존
 
-`Svelt.js` `Ruby on Rails(완강)` `Python-dJango(홀딩)` `데이터 사이언스(Kaggle)-타이타닉(홀딩)`
+`Svelt.js` `Ruby on Rails` `Python-dJango(홀딩)` `데이터 사이언스(Kaggle)-타이타닉(홀딩)`
 
 
 
