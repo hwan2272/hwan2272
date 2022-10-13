@@ -67,6 +67,13 @@ SI/SM (4년 2개월)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=webinar&show_owner=true&theme=maroongold)](https://github.com/hwan2272/webinar)-->
 
+
+## 2022-10-19(예정) "시니어 개발자가 말하는 나만의 원칙"
+
+- 분류: `웨비나`, `커리어`
+- 주최: `COMMIT`, `Goorm.io`
+- 일시: 10. 19(수) 19:00 ~ 22:00
+
 ## 2022-08-31 "[토크쇼] 8월 우아한테크세미나 토크쇼 | 개발자가 꼭 알아야 할 애플리케이션 보안: 입문부터 놓치면 안될 트렌드까지?!"
 
 - 분류 : `온라인`, `YouTube Live`
