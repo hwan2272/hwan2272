@@ -218,6 +218,14 @@ https://www.inflearn.com/chats/541160
 
 </details>
 
+### 5. FastCampus
+
+### 5-1. 수강 목록
+
+https://fastcampus.co.kr/dev_online_bedata
+
+[백엔드 개발자를 위한 한 번에 끝내는 대용량 데이터 & 트래픽 처리 초격차 패키지 Online]
+
 ---------------
 # * 보유도서/얻은 책/읽는 책 (비개발관련 포함)
 
