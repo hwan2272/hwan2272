@@ -67,7 +67,7 @@ SI/SM (4년 2개월)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=webinar&show_owner=true&theme=maroongold)](https://github.com/hwan2272/webinar)-->
 
-## 2022-11-16(예정) "[Goorm COMMIT]성장:: 개발자들의 평생 과제"
+## 2022-11-16 "[Goorm COMMIT]성장:: 개발자들의 평생 과제"
 
 - 분류: `웨비나`, `커리어`
 - 주최: `COMMIT`, `Goorm.io`
