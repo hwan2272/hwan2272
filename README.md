@@ -26,6 +26,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=webinar&show_owner=true&theme=maroongold)](https://github.com/hwan2272/webinar)-->
 
+<details>
+<summary> | 접기/펼치기 | </summary>
+
 ## 2022-11-16 "[Goorm COMMIT]성장:: 개발자들의 평생 과제"
 
 - 분류: `웨비나`, `커리어`
@@ -99,6 +102,7 @@
 - 주최: `okky`
 - 일시: 05. 26(목) 20:00 ~ 22:00
 
+</details>
 
 
 ### 1. Github
