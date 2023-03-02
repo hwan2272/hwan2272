@@ -172,7 +172,7 @@ https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 <details>
 <summary> | 접기/펼치기 | </summary>
 
-### 4-1. 보유한 인강목록
+### 4-1. 수강 목록
 
 https://www.inflearn.com/
 
