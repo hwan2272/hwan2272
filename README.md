@@ -3,63 +3,36 @@
 
 # * Park Jeong-hwan 
 
-### 개발 고수
+### 소개 및 포트폴리오 : https://hwan2272.github.io/#about
 
-는 아니고 그냥 `어찌저찌` 하다보니 `이것저것` 할줄 알게된 SCV 이고, `Java` `Spring Boot` `Backend`/`Full Stack` 위주의 개발자입니다.
+---------------
+# * Skills
 
-좌우명은 `도태되지 말자` 이고, 호기심/연구심 생기면 해결못하면 도태될거 같아서 못참기 때문에 해결하고자 `이것저것` `기웃기웃` 거립니다.
-
-스스로 정파보다는 사파라고 생각하고, 겸허한 자세로 `이것저것` 익혀서 `여기저기` 써먹을려고합니다.
-
-
+### 주요 Skills
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"> <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"> 
 
 <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"> 
 
-<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">         
+<img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white"> 
 
 
----------------
-# * 실무 이력 (비웹개발 포함)
-
-### 2017-01 ~ 2022-04
-
-개발(Frontend/Backend),유지보수 (5년 4개월) - 망분리(인터넷망/폐쇄망) 환경
+### 기타 Skills
 
 `Java` `Spring` `Spring Boot` `Spring Security` `Eclipse Plugin 개발(폴더/파일 업로드 플러그인)` `bootstrap ui 1종(concept-master) css 테마 커스터마이즈` `ReactJS` `Vue.js` `MySQL(MariaDB)` `Oracle` `Mybatis` `Apache Tomcat` `Apache` `Linux` `JWT` `Oracle Virtual Box(개념,경험)` `Swagger UI(개념,경험)` `Zookeeper(개념)` `Kibana(개념,경험)` `Kafka(개념,경험)` `Elastic Search(개념)` `Python(개념,경험)` `Redis(개념,경험)` `MultiPart 파일 업로드` ...
 
 
-### 2012-11 ~ 2016-12
-
-SI/SM (4년 2개월)
 
 `Java` `Spring` `eGov (전자정부 표준프레임워크)` `Jeus Middleware(경험)` `ASP.NET` `C#` `MSSQL(Microsoft SQL Server)` `Oracle` `MySQL(MariaDB)` `Mybatis` `Apache Tomcat` `Apache` `AOP(개념,경험)` `SiteMesh` `Apache Poi (excel)`
 
 
-### 2011-12 ~ 2012-07
-
-임베디드개발 (8개월)
-
-`C#` `C++` `C` `XML`         
-
-
----------------
-# * 자체 학습
-
-### 2022-05 ~ 
-
 `Spring Data JPA` `Junit 5-(entity, controller Test용 => Spring Rest Docs적용)` `MSA (Micro Service Architecture)` `Spring Cloud` `H2 Database` `Mysql(MariaDB)` `RabbitMQ` `Kafka(Zookeeper/Producer/Consumer/Topic)-Windows환경` `Kafka Connect(distributed, sink connect)-Windows환경` `Zipkin` `Prometheus` `Grafana` `Oracle Virtual Box` `Docker` `Vagrant(개념,경험)` `Kubernetes(개념,경험)` `Spring Rest Docs` `디자인 패턴` `Kotlin[예정]` `Android Studio[예정]` `node.js backend[예정]` `AWS EC2` `AWS S3(개념,경험)` `AWS CloudFront(개념,경험)` `AWS RDS(개념,경험)`
 
-### 기존
 
 `Svelt.js` `Ruby on Rails` `Python-dJango(홀딩)` `데이터 사이언스(Kaggle)-타이타닉(홀딩)`
 
-
-
-
 ---------------
-# * 활동
+# * Activities
 
 
 ## 0. 세미나/웨비나/오프라인/온라인
@@ -146,6 +119,8 @@ SI/SM (4년 2개월)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hwan2272&theme=nord&column=4)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=react_seoulparks&show_owner=true&theme=maroongold)](https://github.com/hwan2272/react_seoulparks)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=msa_ecomms&show_owner=true&theme=maroongold)](https://github.com/hwan2272/msa_ecomms)
 
 ![hwan2272's github stats](https://github-readme-stats.vercel.app/api?username=hwan2272&show_icons=true&theme=nord)
@@ -225,29 +200,17 @@ https://www.inflearn.com/chats/541160
 
 ### 5. FastCampus
 
+<details>
+<summary> | 접기/펼치기 | </summary>
+
 ### 5-1. 수강 목록
 
 https://fastcampus.co.kr/dev_online_bedata
 
 [백엔드 개발자를 위한 한 번에 끝내는 대용량 데이터 & 트래픽 처리 초격차 패키지 Online]
 
----------------
-# * 보유도서/얻은 책/읽는 책 (비개발관련 포함)
+</details>
 
-* 소프트웨어 장인 - [산드로 만쿠소]
-* 오늘부터 웃으며 거절할게요 - [저우웨이리]
-* 도메인 주도 개발 시작하기-DDD 핵심 개념 정리부터 구현까지 - [최범균]
-* Do it 자료구조와 함께 배우는 알고리즘 입문 - [BohYoh Shibata]
-* 팀장으로 산다는 건 - [김진영]
-* 작지만 강력한 디테일의 힘 - [왕중추]
-* CentOS07으로 리눅스 핵심 이해하기 - [정성재 등]
-* 심리학을 만나 행복해졌다 - [장원청]
-* 현대인의 정신건강 - [이동식]
-* 바닷가 작업실에서는 전혀 다른 시간이 흐른다 - [김정운]
-* 어떻게 일하며 성장할 것인가 - [전영민]
-* AWS클라우드 기반의 DJANGO 웹 애플리케이션 - [신성진]
-* 파이썬으로 만드는 OpenCV 프로젝트 - [이세우]
-* 가상 면접 사례로 배우는 대규모 시스템 설계 기초 - [알렉스 쉬]
-* 이펙티브 자바 - [조슈아 블로크]
+---------------
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Best%20Regards.&animation=twinkling&fontSize=50&fontColor=64ffe2)
