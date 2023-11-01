@@ -134,7 +134,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=msa_ecomms&show_owner=true&theme=maroongold)](https://github.com/hwan2272/msa_ecomms)
 
-![hwan2272's github stats](https://github-readme-stats.vercel.app/api?username=hwan2272&show_icons=true&theme=nord)
+<!--![hwan2272's github stats](https://github-readme-stats.vercel.app/api?username=hwan2272&show_icons=true&theme=nord)-->
+
 [![hwan2272's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hwan2272&show_icons=true&icon_color=004386&layout=compact&theme=nord)](https://github.com/hwan2272)
 
 
