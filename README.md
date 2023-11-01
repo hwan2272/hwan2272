@@ -10,7 +10,7 @@
 
 - ▶ 임상연구사업 관리 통합플랫폼 HDMS 서비스 Camel버전 프론트엔드단 개발 담당
 - ▷ 서비스 프론트엔드단 개발 담당.
-- ▷ material-ui 및 react-hookform, yup validation의 각종 케이스 경험의 조합 숙달
+- ▷ material-ui 및 react-hookform, yup validation, react-query등 최신형 라이브러리의 각종 케이스 경험의 조합 숙달
 - ▷ 서비스내 에디터 교체건 담당. 현황 파악 및 조사하여 sunEditor로 대체 성공진행
 - ▷ eCrf를 위한 구성 전반 (eCrf - HDMS 서비스 기본적인 연구자 사용화면 위주)
 - ▷ mutation.dataservice.kr 등 상용 서비스 오픈
