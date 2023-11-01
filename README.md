@@ -13,7 +13,7 @@
 - ▷ 서비스내 에디터 교체건 담당. 현황 파악 및 조사하여 sunEditor로 대체 성공진행
 - ▷ mutation.dataservice.kr 등 상용 서비스 오픈
 - ▷ 손이 빠른 개발자. PRO, Imaging 등 HDMS의 핵심 카테고리 대메뉴 개발
-- ▷ 커져가는 서비스 규모에 맞추어 MSA 구상 및 제안
+- ▷ 커져가는 서비스 규모에 대비하여 MSA 구상 및 제안
 - ▷ 구현 방안으로 monorepo vs multirepo 방안 검토 스터디 진행중
 
 ---------------
