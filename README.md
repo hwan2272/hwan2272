@@ -12,10 +12,13 @@
 - ▷ 서비스 프론트엔드단 개발 담당.
 - ▷ material-ui 및 react-hookform, yup validation의 각종 케이스 경험의 조합 숙달
 - ▷ 서비스내 에디터 교체건 담당. 현황 파악 및 조사하여 sunEditor로 대체 성공진행
+- ▷ eCrf를 위한 구성 전반 (eCrf - HDMS 서비스 기본적인 연구자 사용화면 위주)
 - ▷ mutation.dataservice.kr 등 상용 서비스 오픈
-- ▷ 손이 빠른 개발자. PRO, Imaging 등 HDMS의 핵심 카테고리 대메뉴 개발
-- ▷ 커져가는 서비스 규모에 대비하여 MSA 구상 및 제안
-- ▷ 구현 방안으로 monorepo vs multirepo 방안 검토 스터디 진행중
+- ▷ PRO, Imaging 등 HDMS의 핵심 카테고리 대메뉴 개발 (PRO - survey를 통한 연구대상자 직접참여형 중심, Imaging - 임상연구 영상등록/분석 관리)
+- ▷ Safebox 리뉴얼 개발 (Safebox - 연구대상자 정보 관리 위주 카테고리)
+- ▷ 연구자 사용화면 위주의 리뉴얼 진행 및 예정중 (ecrf, PRO, Imaging, Safebox등)
+- ▷ 커져가는 서비스 규모에 대비하여 프론트단의 Micro Service Architecture (MSA) 패턴 개선방향 구상 및 제안
+- ▷ 구현 방안으로 monorepo vs multirepo 방안 검토 등 관련한 스터디 진행중
 
 ---------------
 # * Skills
