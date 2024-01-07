@@ -3,7 +3,7 @@
 
 # * Park Jeong-hwan 
 
-### 소개 및 포트폴리오 : https://hwan2272.github.io/#about
+### 소개 및 포트폴리오 : https://hwan2272.github.io/#about (공사중)
 
 프로큐라티오 (현 재직)
 연구소/과장
