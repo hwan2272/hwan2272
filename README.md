@@ -212,6 +212,20 @@ https://fastcampus.co.kr/dev_online_bedata
 
 </details>
 
+
+### 6. Udemy
+
+<details>
+<summary> | 접기/펼치기 | </summary>
+
+### 6-1. 수강 목록
+
+https://www.udemy.com/course/jest-testing-library/
+
+[한글자막】 Jest / Vitest 를 활용한 React 테스팅 라이브러리]
+
+</details>
+
 ---------------
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Best%20Regards.&animation=twinkling&fontSize=50&fontColor=64ffe2)
