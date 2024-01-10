@@ -3,7 +3,7 @@
 
 # * Park Jeong-hwan 
 
-### 소개 및 포트폴리오 : https://hwan2272.github.io/#about
+### 소개 및 포트폴리오 : https://hwan2272.github.io/#about (개편중)
 
 ---------------
 # * Skills
