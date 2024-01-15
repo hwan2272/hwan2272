@@ -119,6 +119,8 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hwan2272&theme=nord&column=4)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=hwan2272.github.io&show_owner=true&theme=maroongold)](https://github.com/hwan2272/hwan2272.github.io)
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=react_seoulparks&show_owner=true&theme=maroongold)](https://github.com/hwan2272/react_seoulparks)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=msa_ecomms&show_owner=true&theme=maroongold)](https://github.com/hwan2272/msa_ecomms)
