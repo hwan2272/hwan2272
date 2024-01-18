@@ -228,6 +228,15 @@ https://www.udemy.com/course/jest-testing-library/
 
 </details>
 
+### 7. ZeroBase
+
+<details>
+<summary> | 접기/펼치기 | </summary>
+
+제로베이스 프론트엔드 Pro 3기 합류. 수강중 (2024.01 ~ ING)
+
+</details>
+
 ---------------
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Best%20Regards.&animation=twinkling&fontSize=50&fontColor=64ffe2)
