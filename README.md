@@ -233,6 +233,8 @@ https://www.udemy.com/course/jest-testing-library/
 <details>
 <summary> | 접기/펼치기 | </summary>
 
+### 7-1. 수강 목록
+
 제로베이스 프론트엔드 Pro 3기 합류. 수강중 (2024.01 ~ ING)
 
 </details>
