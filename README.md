@@ -240,6 +240,18 @@ https://www.udemy.com/course/jest-testing-library/
 
 </details>
 
+
+### 8. 한국방송통신대학교
+
+<details>
+<summary> | 접기/펼치기 | </summary>
+
+### 8-1. 편입
+
+24년도 1학기 - 3학년 편입 지원. 결과 대기중
+
+</details>
+
 ---------------
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Best%20Regards.&animation=twinkling&fontSize=50&fontColor=64ffe2)
