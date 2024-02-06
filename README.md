@@ -3,7 +3,8 @@
 
 # * Park Jeong-hwan 
 
-### 소개 및 포트폴리오 : [hwan2272 PortFolio](https://hwan2272.github.io)
+### 소개 : [hwan2272 Resume](https://hwan2272.notion.site/hwan2272/Park-Jeonghwan-4f440fa263c7493382bfc371f41b723e)
+### 포트폴리오 : [hwan2272 PortFolio](https://hwan2272.github.io)
 ### 테크 블로그 : [hwan2272 TechBlog](https://hwan2272.notion.site/c633e7b5314c46eb8b1395c6c4a46c11)
 
 ---------------
