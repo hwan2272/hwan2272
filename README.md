@@ -248,7 +248,7 @@ https://www.udemy.com/course/jest-testing-library/
 
 ### 8-1. 편입
 
-24년도 1학기 - 3학년 편입 지원. 결과 대기중
+3학년 편입. 현재 재학중 (2024.02 ~ ING)
 
 </details>
 
