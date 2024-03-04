@@ -174,10 +174,12 @@ https://programmers.co.kr/learn/challenges?tab=sql_practice_kit
 ![programmers SQL Kit완료](https://user-images.githubusercontent.com/65170244/161099567-3d1b96fd-d856-4f10-8eff-ce571606ec8f.png)
 
 
-### 3-3. 코테 연습 Kit (진행) - 예전버전. 업데이트 예정
+### 3-3. 코테 연습 Kit (진행)
 https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 
-![programmers 코테연습 (해결중)_3](https://user-images.githubusercontent.com/65170244/162095297-aa15ea93-6a1c-4115-a64c-7316e433c4fd.png)
+<!--![programmers 코테연습 (해결중)_3](https://user-images.githubusercontent.com/65170244/162095297-aa15ea93-6a1c-4115-a64c-7316e433c4fd.png)-->
+![programmers 코테연습 (해결중)](https://github.com/hwan2272/hwan2272/assets/65170244/adba7433-3800-460a-a962-d2e36001a30c)
+
 
 </details>
 
