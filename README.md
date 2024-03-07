@@ -179,7 +179,7 @@ https://programmers.co.kr/learn/challenges?tab=algorithm_practice_kit
 
 <!--![programmers 코테연습 (해결중)_3](https://user-images.githubusercontent.com/65170244/162095297-aa15ea93-6a1c-4115-a64c-7316e433c4fd.png)-->
 
-![programmers 코테연습 (해결중)](https://github.com/hwan2272/hwan2272/assets/65170244/adba7433-3800-460a-a962-d2e36001a30c)
+![programmers 코테연습 (해결중)](https://github.com/hwan2272/hwan2272/assets/65170244/7cb86e70-6809-49d1-9ec1-5b2a982c92eb)
 
 
 </details>
