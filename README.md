@@ -109,7 +109,7 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=hwan2272&theme=nord&column=4)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=next_pofol&show_owner=true&theme=maroongold)](https://github.com/hwan2272/next_pofol)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=devvreco&show_owner=true&theme=maroongold)](https://github.com/hwan2272/devvreco)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=hwan2272&repo=hwan2272.github.io&show_owner=true&theme=maroongold)](https://github.com/hwan2272/hwan2272.github.io)
 
