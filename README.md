@@ -17,7 +17,7 @@
 |스타트업 H사|Lab Leader|기업부설연구소장|
 |스타트업 A사|FE|기업부설연구소 개발팀 프로|
 |스타트업 P사|FE|기업부설연구소 개발팀 과장|
-|중견기업 Hecto계열|BE|기업부설연구소 개발팀 책임|
+|중견기업 Hecto계열|FE + BE|기업부설연구소 개발팀 책임|
 |중소기업 J사|BE|개발팀 사원|
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Best%20Regards.&animation=twinkling&fontSize=50&fontColor=64ffe2)
