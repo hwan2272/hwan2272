@@ -12,12 +12,10 @@
 
 ---------------
 # * Work history
-|회사|설명|주요 직무/직책|
-|------|---|---|
-|스타트업 H사|기업부설연구소장|Lab Leader|
-|스타트업 A사|기업부설연구소 개발팀 프로|FE|
-|스타트업 P사|기업부설연구소 개발팀 과장|FE|
-|중견기업 Hecto계열|기업부설연구소 개발팀 책임|FE + BE|
-|중소기업 J사|개발팀 사원|BE|
+- 스타트업 H사 기업부설연구소장
+- 스타트업 A사 기업부설연구소 개발팀 프로
+- 스타트업 P사 기업부설연구소 개발팀 과장
+- 중견기업 Hecto계열 기업부설연구소 개발팀 책임
+- 중소기업 J사 개발팀 사원
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer&text=Best%20Regards.&animation=twinkling&fontSize=50&fontColor=64ffe2)
